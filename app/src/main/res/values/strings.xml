@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Riprocare</string>
+    <string name="_12_00">12:00</string>
+    <string name="_20_06_2025">20/06/2025</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="address">Address</string>
+
+    <string name="back">BACK</string>
+    <string name="back2">Back</string>
+    <string name="back3">Back</string>
+    <string name="book">Book</string>
+    <string name="book_appoinment">Book Appoinment</string>
+    <string name="button">Button</string>
+    <string name="buy_medicine">BUY MEDICINE</string>
+    <string name="buy_medicine1">Buy Medicine</string>
+    <string name="checkout">Checkout</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="default_text">Default Text</string>
+    <string name="deliver_location_kushtia">Deliver Location : Kushtia</string>
+    <string name="dentists">DENTISTS</string>
+    <string name="dietician">DIETICIAN</string>
+    <string name="family_physicians">FAMILY PHYSICIANS</string>
+    <string name="find_doctor">FIND DOCTOR</string>
+    <string name="full_name">Full Name</string>
+    <string name="go_to_cart">Go to Cart</string>
+    <string name="health_article">HEALTH ARTICLE</string>
+    <string name="hi_nhello">Hi \nHello</string>
+    <string name="lab_test">LAB TEST</string>
+    <string name="lab_test_and_package">Lab Test and Package</string>
+    <string name="lab_test_and_package1">Lab Test and Package</string>
+    <string name="lab_test_cart_items">Lab Test Cart Items</string>
+    <string name="login">Login</string>
+    <string name="logout">LOGOUT</string>
+    <string name="medicine_cart_items">Medicine Cart Items</string>
+    <string name="order_details">ORDER DETAILS</string>
+    <string name="pin_code">Pin Code</string>
+    <string name="please_fill_all_details_for_booking">Please Fill All Details for Booking</string>
+    <string name="register_for_new_user">Register for new user</string>
+    <string name="riprocare">RiproCare</string>
+    <string name="riprocare1">RiproCare</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_delivery_date">Select Delivery Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="surgeons">SURGEONS</string>
+    <string name="top_doctors">Top Doctors</string>
+    <string name="total_cost_2000">Total Cost : 2000/-</string>
+</resources>
